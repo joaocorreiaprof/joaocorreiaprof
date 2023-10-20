@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/9a/ac/6e/9aac6e691e24f1652e57604271101867.gif)]
 <h1 align="center">👋 Greetings, young Padawan, i´m João Correia</h1>
 <h3 align="center">👀 I'm on a mission to conquer the universe of everything computer-related, much like the Jedi Master Yoda! 🌱 Learning HTML and CSS, to become a Jedi Knight of the web development realm! 💪</h3>
 <img align="right" alt="Coding" with="400" src="https://i.pinimg.com/originals/9a/ac/6e/9aac6e691e24f1652e57604271101867.gif">
