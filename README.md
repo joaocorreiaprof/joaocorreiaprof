@@ -1,12 +1,12 @@
 <h1 align="center">👋 Greetings, young Padawan, i´m João Correia</h1>
-<h3 align="center">👀 I'm on a mission to conquer the universe of everything computer-related, much like the Jedi Master Yoda! 🌱 Learning HTML and CSS, to become a Jedi Knight of the web development realm! 💪</h3>
+<h3 align="center">👀 I'm on a mission to conquer the universe of everything computer-related, much like the Jedi Master Yoda! 🌱 Learning JavaScript, to become a Jedi Knight of the web development realm! 💪</h3>
 <img align="right" alt="Coding" with="400" src="https://i.pinimg.com/originals/9a/ac/6e/9aac6e691e24f1652e57604271101867.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaocorreiaprof&label=Profile%20views&color=0e75b6&style=flat" alt="joaocorreiaprof" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🛠️ Tackling the mighty HTML and CSS dragons, just as Luke Skywalker faced the trials of the Force! Gotta master 'em to level up in the web development game! [The Odin Project](https://github.com/joaocorreiaprof/curriculum)
+- 🛠️ Tackling the mighty HTML, CSS and JS dragons, just as Luke Skywalker faced the trials of the Force! Gotta master 'em to level up in the web development game! [The Odin Project](https://github.com/joaocorreiaprof/curriculum)
 
 - 📬 Send a holographic message to my inbox, just like R2-D2 carrying important messages for the Rebel Alliance! **joaocorreiaprof@gmail.com**
 
