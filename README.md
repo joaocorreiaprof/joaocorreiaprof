@@ -13,7 +13,7 @@
 ## 🧠 What I Do  
 By day, I write clean, efficient code. By night, I ~fight crime~ refine my skills, build side projects, and occasionally argue with my IDE. My goal? To craft scalable, secure, and intuitive applications that make life easier (and maybe, just maybe, impress the coding gods).  
 
-## 📫 Connect with Me  
+## 👯️ Connect with Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/jo%c3%a3o-correia-8b6588237/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao linkedin" height="30" width="40" />
@@ -37,4 +37,3 @@ The Millennium Falcon did the Kessel Run in less than 12 parsecs. I once fixed a
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaocorreiaprof&show_icons=true&locale=en&layout=compact" alt="joaocorreiaprof" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaocorreiaprof&" alt="joaocorreiaprof" /></p>
-
