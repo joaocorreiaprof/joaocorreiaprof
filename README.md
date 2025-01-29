@@ -18,7 +18,6 @@ By day, I write clean, efficient code. By night, I ~fight crime~ refine my skill
 ## 👯️ Connect with Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/jo%c3%a3o-correia-8b6588237/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao linkedin" height="30" width="40" />
 </a>
 </p>
 
