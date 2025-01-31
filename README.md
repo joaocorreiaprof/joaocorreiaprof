@@ -11,7 +11,6 @@ I'm on a journey to master the art of web development—think of it as a mix bet
 - **Frontend:** HTML, CSS, React, Vite  
 - **Backend:** Node.js, Express  
 - **Databases:** SQL, PostgreSQL, Prisma  
-- **Other Skills:** Git, Linux, Bash, and all tools taught by The Odin Project  
 
 ## 🧠 What I Do  
 By day, I write clean, efficient code. By night, I ~fight crime~ refine my skills, build side projects, and occasionally argue with my IDE. My goal? To craft scalable, secure, and intuitive applications that make life easier (and maybe, just maybe, impress the coding gods).  
