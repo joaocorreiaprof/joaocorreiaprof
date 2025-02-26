@@ -10,7 +10,8 @@ I'm on a journey to master the art of web development—think of it as a mix bet
 - **Languages:** C, Python, JavaScript  
 - **Frontend:** HTML, CSS, React  
 - **Backend:** Node.js, Express  
-- **Databases:** SQL, PostgreSQL, Prisma, MongoDB  
+- **Databases:** SQL, PostgreSQL, Prisma, MongoDB
+- **Test:** Jest 
 
 ## 🧠 What I Do  
 By day, I write clean, efficient code. By night, I ~fight crime~ refine my skills, build side projects, and occasionally argue with my IDE. My goal? To craft scalable, secure, and intuitive applications that make life easier (and maybe, just maybe, impress the coding gods).  
