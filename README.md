@@ -7,8 +7,8 @@ I'm on a journey to master the art of web development—think of it as a mix bet
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaocorreiaprof&label=Profile%20views&color=0e75b6&style=flat" alt="joaocorreiaprof" /> </p>
 
 ## 🛠️ Tech Stack  
-- **Languages:** C, Python, Java  
-- **Frontend:** HTML, CSS, React, Vite  
+- **Languages:** C, Python, JavaScript  
+- **Frontend:** HTML, CSS, React  
 - **Backend:** Node.js, Express  
 - **Databases:** SQL, PostgreSQL, Prisma  
 
