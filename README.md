@@ -8,7 +8,7 @@ I'm on a journey to master the art of web development, think of it as a mix betw
 
 ## 🛠️ Tech Stack  
 - **Languages:** C, Python, JavaScript  
-- **Frontend:** HTML, CSS, React  
+- **Frontend:** HTML, CSS, React, TypeScript 
 - **Backend:** Node.js, Express  
 - **Databases:** SQL, PostgreSQL, Prisma, MongoDB
 - **Test:** Jest 
