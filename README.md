@@ -29,7 +29,10 @@ The Millennium Falcon did the Kessel Run in less than 12 parsecs. I once fixed a
 
 ---
 
-[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaocorreiaprof&theme=github)](https://github.com/joaocorreiaprof)
+
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaocorreiaprof&theme=github)](https://github.com/joaocorreiaprof)
+
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaocorreiaprof&" alt="joaocorreiaprof" /></p>
