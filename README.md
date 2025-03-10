@@ -36,6 +36,7 @@ I'm on a journey to master the art of web development, think of it as a mix betw
 - **Databases:** SQL, PostgreSQL, Prisma, MongoDB  
 - **Testing:** Jest  
 
+---
 
 ## 🧠 What I Do  
 By day, I write clean, efficient code. By night, I ~fight crime~ refine my skills, build side projects, and occasionally argue with my IDE. My goal? To craft scalable, secure, and intuitive applications that make life easier (and maybe, just maybe, impress the coding gods).  
@@ -64,14 +65,14 @@ I'm actively seeking a **Full-Stack Developer** or **Front-End Developer** role!
 
 ---
 
-## 🌟 Fun Fact  
-The Millennium Falcon did the Kessel Run in less than 12 parsecs. I once fixed a bug that took me *12 hours*. Close enough, right?  
-
----
-
 ## 📊 GitHub Stats & Activity
 
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaocorreiaprof&theme=github)
+
+---
+
+## 🌟 Fun Fact  
+The Millennium Falcon did the Kessel Run in less than 12 parsecs. I once fixed a bug that took me *12 hours*. Close enough, right?  
 
 ---
 
