@@ -11,7 +11,7 @@ I'm on a journey to master the art of web development, think of it as a mix betw
 - **Frontend:** HTML, CSS, React
 - **Backend:** Node.js, Express  
 - **Databases:** SQL, PostgreSQL, Prisma, MongoDB
-- **Test:** Jest 
+- **Testing:** Jest 
 
 ## 🧠 What I Do  
 By day, I write clean, efficient code. By night, I ~fight crime~ refine my skills, build side projects, and occasionally argue with my IDE. My goal? To craft scalable, secure, and intuitive applications that make life easier (and maybe, just maybe, impress the coding gods).  
@@ -34,5 +34,7 @@ The Millennium Falcon did the Kessel Run in less than 12 parsecs. I once fixed a
 
 
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=joaocorreiaprof&label=Visitors&color=blue&style=flat-square" alt="joaocorreiaprof" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaocorreiaprof&" alt="joaocorreiaprof" /></p>
