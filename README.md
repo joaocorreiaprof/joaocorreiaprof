@@ -4,7 +4,9 @@
 
 I'm on a journey to master the art of web development, think of it as a mix between Jedi training and debugging code at 3 AM.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Problem-Solver;Lifelong+Learner)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Problem-Solver;Lifelong+Learner" alt="Typing SVG">
+</p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=joaocorreiaprof&label=Visitors&color=blue&style=flat-square" alt="joaocorreiaprof" />
