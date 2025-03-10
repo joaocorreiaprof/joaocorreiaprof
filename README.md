@@ -74,6 +74,5 @@ I'm actively seeking a **Full-Stack Developer** or **Front-End Developer** role!
 ## 🌟 Fun Fact  
 The Millennium Falcon did the Kessel Run in less than 12 parsecs. I once fixed a bug that took me *12 hours*. Close enough, right?  
 
----
 
 ![Profile Views](https://hit.yhype.me/github/profile?user_id=YOUR_GITHUB_ID)
