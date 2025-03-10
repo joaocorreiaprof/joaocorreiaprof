@@ -4,7 +4,10 @@
 
 I'm on a journey to master the art of web development, think of it as a mix between Jedi training and debugging code at 3 AM.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaocorreiaprof&label=Profile%20views&color=0e75b6&style=flat" alt="joaocorreiaprof" /> </p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=joaocorreiaprof&label=Visitors&color=blue&style=flat-square" alt="joaocorreiaprof" />
+</p>
 
 ## 🛠️ Tech Stack  
 - **Languages:** C, Python, JavaScript, TypeScript   
@@ -31,10 +34,4 @@ The Millennium Falcon did the Kessel Run in less than 12 parsecs. I once fixed a
 
 
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaocorreiaprof&theme=github)](https://github.com/joaocorreiaprof)
-
-
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=joaocorreiaprof&label=Visitors&color=blue&style=flat-square" alt="joaocorreiaprof" />
-</p>
 
