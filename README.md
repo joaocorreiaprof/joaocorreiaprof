@@ -33,10 +33,11 @@ I'm on a journey to master the art of web development, think of it as a mix betw
 </p>
 
 - **Languages:** C, Python, JavaScript, TypeScript  
-- **Frontend:** HTML, CSS, React  
-- **Backend:** Node.js, Express  
-- **Databases:** SQL, PostgreSQL, Prisma, MongoDB  
-- **Testing:** Jest  
+- **Frontend:** HTML, CSS, Tailwind CSS, EJS, React, Vite, UI Libraries (Chakra UI, Radix UI,  Material UI), Three.js, Next.js 
+- **Backend:** Node.js, Express.js, Prisma ORM, Passport.js & JWT, Google OAuth, WebSockets 
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+- **Testing:** Jest, Supertest
+- **Tools & Infrastructure:**  Railway, Docker, Git, Cloudinary, CI/CD, REST & GraphQL
 
 ---
 
